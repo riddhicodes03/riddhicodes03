@@ -1,11 +1,11 @@
 <h1 align="center">I'm Riddhi sahu</h1>
 <h3 align="center">Full stack MERN and Mobile app developer</h3>
 
-- I’m currently learning **Flutter development**
+- **I’m currently learning Flutter development**
 
-- Backend using **Node.js**
+- **Backend using Node.js**
 
-- Email **riddhisundarsahu0498@gmail.com**
+- **Email riddhisundarsahu0498@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
