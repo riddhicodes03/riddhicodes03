@@ -7,7 +7,7 @@
 
 - **Email riddhisundarsahu0498@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect :</h3>
 <p align="left">
 <a href="https://twitter.com/riddhi_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riddhi_codes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riddhi-sahu-bb69533b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhi-sahu-bb69533b9" height="30" width="40" /></a>
