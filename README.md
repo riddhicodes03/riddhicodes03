@@ -1,5 +1,5 @@
 <h1 align="center">I'm Riddhi sahu</h1>
-<h3 align="center">Full stack MERN and Native Mobile app developer</h3>
+<h3 align="center">Full stack MERN and Mobile app developer</h3>
 
 - I’m currently learning **Flutter development**
 
